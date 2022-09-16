@@ -1,3 +1,5 @@
+package com.buchneva;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -9,6 +11,6 @@ public class ExampleTest {
     }
 
     void ExampleTest2() {
-        Assertions.assertTrue(4 >= 3);
+        Assertions.assertTrue(2 <=1);
     }
 }
